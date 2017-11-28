@@ -1,6 +1,9 @@
 # KeywordExtraction
 
 
+The zip file has the edgelists as well as the dense graph decompositions
+CoreRank_PeakRank -> notebook for core rank and peak rank
+
 ### Density Friendly - https://users.ics.aalto.fi/ntatti/software/core.zip
 
 
